@@ -3,9 +3,9 @@ function App() {
 
 
   return (
-    <>
-      <h1>hello bots </h1>
-    </>
+    <div class="bg-secondary text-white p-72 animate-slide-up">
+      Hello, extended!
+    </div>
   )
 }
 
